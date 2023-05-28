@@ -4,6 +4,19 @@
   padding: 2rem;
   text-align: center;
 }
+.all{
+  color: green;
+  font-size: 2rem
+}
+.best{
+  color: blue;
+  font-size: 2rem
+}
+
+.value{
+  font-size: 100px
+  color: green;
+}
 
 .logo {
   height: 6em;
